@@ -1,0 +1,15 @@
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\bin\Debug\net9.0\BasicCSharp.exe
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\bin\Debug\net9.0\BasicCSharp.deps.json
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\bin\Debug\net9.0\BasicCSharp.runtimeconfig.json
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\bin\Debug\net9.0\BasicCSharp.dll
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\bin\Debug\net9.0\BasicCSharp.pdb
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\obj\Debug\net9.0\BasicCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\obj\Debug\net9.0\BasicCSharp.AssemblyInfoInputs.cache
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\obj\Debug\net9.0\BasicCSharp.AssemblyInfo.cs
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\obj\Debug\net9.0\BasicCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\obj\Debug\net9.0\BasicCSharp.sourcelink.json
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\obj\Debug\net9.0\BasicCSharp.dll
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\obj\Debug\net9.0\refint\BasicCSharp.dll
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\obj\Debug\net9.0\BasicCSharp.pdb
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\obj\Debug\net9.0\BasicCSharp.genruntimeconfig.cache
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\ConsoleApp1\obj\Debug\net9.0\ref\BasicCSharp.dll

@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\LinqCsharpApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8932C7D5-695A-4554-BFF3-7239B50869CC}|..\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\puspa\\desktop\\mygithubproject\\linq\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932C7D5-695A-4554-BFF3-7239B50869CC}|..\\ConsoleApp1\\BasicCSharp.csproj|c:\\users\\puspa\\desktop\\mygithubproject\\linq\\consoleapp1\\refandout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932C7D5-695A-4554-BFF3-7239B50869CC}|..\\ConsoleApp1\\BasicCSharp.csproj|c:\\users\\puspa\\desktop\\mygithubproject\\linq\\consoleapp1\\boxingandunboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932C7D5-695A-4554-BFF3-7239B50869CC}|..\\ConsoleApp1\\BasicCSharp.csproj|c:\\users\\puspa\\desktop\\mygithubproject\\linq\\consoleapp1\\arraydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932C7D5-695A-4554-BFF3-7239B50869CC}|..\\ConsoleApp1\\BasicCSharp.csproj|c:\\users\\puspa\\desktop\\mygithubproject\\linq\\consoleapp1\\controlstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932C7D5-695A-4554-BFF3-7239B50869CC}|..\\ConsoleApp1\\BasicCSharp.csproj|c:\\users\\puspa\\desktop\\mygithubproject\\linq\\consoleapp1\\mydatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932C7D5-695A-4554-BFF3-7239B50869CC}|..\\ConsoleApp1\\BasicCSharp.csproj|c:\\users\\puspa\\desktop\\mygithubproject\\linq\\consoleapp1\\qna.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefAndOut.cs",
+              "DocumentMoniker": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\RefAndOut.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\RefAndOut.cs",
+              "ToolTip": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\RefAndOut.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\RefAndOut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:01:15.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoxingAndUnBoxing.cs",
+              "DocumentMoniker": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\BoxingAndUnBoxing.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\BoxingAndUnBoxing.cs",
+              "ToolTip": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\BoxingAndUnBoxing.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\BoxingAndUnBoxing.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:03:29.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\ArrayDemo.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ArrayDemo.cs",
+              "ToolTip": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\ArrayDemo.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ArrayDemo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T16:44:12.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlStatement.cs",
+              "DocumentMoniker": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\ControlStatement.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ControlStatement.cs",
+              "ToolTip": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\ControlStatement.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ControlStatement.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T16:22:26.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QnA.txt",
+              "DocumentMoniker": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\QnA.txt",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\QnA.txt",
+              "ToolTip": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\QnA.txt",
+              "RelativeToolTip": "..\\ConsoleApp1\\QnA.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-24T15:39:13.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDataType.cs",
+              "DocumentMoniker": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\MyDataType.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\MyDataType.cs",
+              "ToolTip": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\MyDataType.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\MyDataType.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T13:47:00.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Puspa\\Desktop\\myGithubProject\\LINQ\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T13:43:27.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,3 +12,4 @@ C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\refin
 C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\LinqCsharpApp.pdb
 C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\LinqCsharpApp.genruntimeconfig.cache
 C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\ref\LinqCsharpApp.dll
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\LinqCsharpApp.sourcelink.json

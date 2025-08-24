@@ -1,0 +1,5 @@
+﻿C# Data type
+1>Value Type or Primitive type
+2>Referance Type or Non Primitive type
+1> value type :store actual data directly in stack
+2>Referance Type: actual value store in heap and its referance/address kept in stack
