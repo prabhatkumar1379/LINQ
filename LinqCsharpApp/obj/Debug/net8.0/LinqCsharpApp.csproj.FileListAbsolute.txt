@@ -1,0 +1,14 @@
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\bin\Debug\net8.0\LinqCsharpApp.exe
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\bin\Debug\net8.0\LinqCsharpApp.deps.json
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\bin\Debug\net8.0\LinqCsharpApp.runtimeconfig.json
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\bin\Debug\net8.0\LinqCsharpApp.dll
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\bin\Debug\net8.0\LinqCsharpApp.pdb
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\LinqCsharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\LinqCsharpApp.AssemblyInfoInputs.cache
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\LinqCsharpApp.AssemblyInfo.cs
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\LinqCsharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\LinqCsharpApp.dll
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\refint\LinqCsharpApp.dll
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\LinqCsharpApp.pdb
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\LinqCsharpApp.genruntimeconfig.cache
+C:\Users\Puspa\Desktop\myGithubProject\LINQ\LinqCsharpApp\obj\Debug\net8.0\ref\LinqCsharpApp.dll
